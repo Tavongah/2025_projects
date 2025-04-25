@@ -1,0 +1,63 @@
+[
+  {
+    "id": 1,
+    "createdByUser": 1,
+    "name": "Tuatara",
+    "sciName": "Sphenodon",
+    "description": [
+      "Tuatara are New Zealand's largest reptile. Adult males are about 0.5 metres in length, and weigh up to 1.5 kg when fully grown.",
+      "The male has a distinctive crest of spines running along the neck and down the back. He can erect these spines to attract females or when fighting with other males.",
+      "Click here to learn more about Tuatara at Department of Conservation."
+    ],
+    "images": [
+      "https://www.sciencehub4kids.com/wp-content/uploads/2015/08/Tuataras.jpg",
+      "https://cdn.mos.cms.futurecdn.net/j8YKQUPekysrHae3GpCiyU-650-80.jpg",
+      "https://animalcorner.org/wp-content/uploads/2015/02/tuatara1-2.jpg",
+      "https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/1fb4/live/ebd44c20-4a51-11ef-aab1-e7fcec708088.jpg",
+      "https://cdn.britannica.com/38/212638-050-7C3EA082/Tuatara-Sphenodon-new-zealand.jpg"
+    ],
+    "events": [
+      {
+        "name": "Tuatara survey for 2023",
+        "date": "04/15/2023",
+        "url": "https://issuu.com/jimeagles8725/docs/dc133online/s/24252516"
+      },
+      {
+        "name": "Jurassic Quest",
+        "date": "06/01/2024",
+        "url": "https://www.jurassicquest.com/"
+      },
+      {
+        "name": "New tuatara facility set to open next month",
+        "date": "05-21-2025",
+        "url": "https://www.project1225.co.nz/latestnews/new-tuatara-facility-set-to-open-next-month"
+      },
+      {
+        "name": "Fifth baby tuatara found at museum site",
+        "date": "06-10-2025",
+        "url": "https://www.icc.govt.nz/fifth-baby-tuatara-found-at-museum-site/"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "createdByUser": 1,
+    "name": "Lion",
+    "sciName": "Panthera leo",
+    "description": [
+      "Large cat",
+      "King of jungle"
+    ],
+    "images": [
+      "lion.jpg"
+    ],
+    "events": [
+      {
+        "name": "Safari",
+        "date": "01/01/2024",
+        "url": "https://safari.com"
+      }
+    ]
+    
+  }
+]
